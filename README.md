@@ -5,6 +5,12 @@ Developed by **WPWakanda LLC** / Aevov AI Technologies.
 ## Overview
 ACL (Afolabi Computing Language) is a domain-specific language designed for **Hyper-Orchestration** and **NeuroSymbolic** computing. It serves as the native logical language of the **Nara Engine**, enabling real-time pattern recognition and spatial canvas orchestration.
 
+## Key Features
+- **Quantum Superposition**: Native constructs for handling probabilistic states.
+- **Cryptographic Logic**: All ACL scripts are cryptographically signed, ensuring tamper-proof execution on the mesh.
+- **Neural Bridge**: Direct hooks for Aevov neural resonances.
+- **Spatial Orchestration**: Evaluate and emit draw commands for WebsiteCard environments.
+
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
