@@ -10,6 +10,8 @@ ACL (Afolabi Computing Language) is a domain-specific language designed for **Hy
 - **Cryptographic Logic**: All ACL scripts are cryptographically signed, ensuring tamper-proof execution on the mesh.
 - **Neural Bridge**: Direct hooks for Aevov neural resonances.
 - **Spatial Orchestration**: Evaluate and emit draw commands for WebsiteCard environments.
+- **Perpetual Glyph Library**: A definitive registry of 1,133 foundational and extended semantic glyphs (AFT Pro lineage) established as prior art under GPL v3. See [GLYPHS.md](./GLYPHS.md).
+- **Sovereign Prior Art**: A perpetual legal claim on the usage and evolution of aev-glyphs. See [PERPETUITY.md](./PERPETUITY.md).
 
 ## 🛠️ Setup & Installation
 
