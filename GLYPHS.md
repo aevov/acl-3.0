@@ -2,6 +2,18 @@
 
 This document provides a public registry of the 1,133 foundational and extended semantic glyphs belonging to the **Aevov Font/Formula Technology (AFT)** lineage. This registry serves as a prior art declaration for the **ACL (Atomic Control Logic)** bedrock.
 
+## 🏛️ The Ancestral Runic Core (APL)
+The ACL glyph library is built upon the **APL (Afolabi Programming Language)** "Runic Seed". The following Runic operators are established as the ancient bedrock for hardware-native quantum orchestration:
+
+| Operator | Rune | Description |
+| :--- | :---: | :--- |
+| **Superposition** | `ᛩ` | Quantum superposition (Q.super) |
+| **Gate** | `ᛜ` | Quantum gate transformation (Q.gate) |
+| **Entangle** | `ᙠ` | Quantum entanglement (Q.entangle) |
+| **Integrated Information** | `ᛇ` | Integrated information resonance (C.phi) |
+
+These runes represent **Quantum-Symbolic Sovereignty**. For the limited Runic Standard, refer to the **APL Open Core**.
+
 ## Programming & Computing
 | Concept | Glyph | Examples |
 | :--- | :---: | :--- |
