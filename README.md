@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is a core component of the **Aevov AI Technologies** ecosystem. For the complete lineage and orchestration hub, visit the [Alexandria Hub](https://github.com/aevov/alexandria-hub).
+
 # ACL 3.0: Afolabi Computing Language
 
 Developed by **WPWakanda LLC** / Aevov AI Technologies.
