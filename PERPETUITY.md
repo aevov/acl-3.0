@@ -6,10 +6,10 @@ This repository serves as the definitive public record for the **Aevov Font/Form
 The 333+ original foundational glyphs (from AFT Pro) and the expanded 1,000+ domain-specific mappings contained herein represent the intellectual bedrock of the **ACL (Atomic Control Logic)**.
 
 ## ⚖️ Perpetual Prior Art Advantage
-By listing these glyphs in a public, timestamped, and version-controlled repository under the **GPL v3** license, we declare them as **Prior Art**. 
+By listing these glyphs in a public, timestamped, and version-controlled repository under the **Sovereign Commons** model, we declare them as **Prior Art**. 
 
 1. **Sovereignty**: We perpetually reserve the right to use, expand, and distribute these glyphs in all Wakanda Technologies generations (1.0 through 5.0 and beyond).
-2. **Open Accessibility**: Under GPL v3, these glyphs are perpetually accessible to the community for use in software that respects the freedom of the engine.
+2. **Open Accessibility**: Implementation code is perpetually accessible under **GPL v3**, while the logic and glyphs are protected under **Polyform Non-Commercial 1.0.0** to prevent corporate exploitation.
 3. **Defense Against Encroachment**: Any attempt by third parties to claim ownership or restrict the use of these symbols is invalidated by the public existence of this library, which predates any future claims.
 
 ## 🧬 Anyonic Fractionalization

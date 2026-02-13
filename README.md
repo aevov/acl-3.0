@@ -54,7 +54,11 @@ ACL uses specialized Unicode glyphs to represent quantum and neural operations.
 - **Conditional**: `if (⟓ state) { ⧈ target "PHASE" 0.5 } else { ... }`
 
 ## 📄 License
-This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).
+This project is licensed under the **Sovereign Commons** model:
+- **Implementation Code**: [GPL-3.0](./LICENSE-CODE)
+- **Logic & Glyphs**: [Polyform Non-Commercial 1.0.0](./LICENSE-NC.md)
+
+See [LICENSE](./LICENSE) for full details.
 
 ---
 © 2026 WPWakanda LLC / Aevov AI Technologies.
